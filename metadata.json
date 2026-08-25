@@ -1,0 +1,6 @@
+{
+  "name": "F1 3D Showcase",
+  "description": "Studio product render of a modern Formula 1 racing car parked under dramatic overhead neon lighting in a high-tech dark garage with glossy carbon fiber bodywork, intricate aerodynamic wings, active DRS, and cinematic motorsport atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
